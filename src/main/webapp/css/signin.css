@@ -1,0 +1,20 @@
+.back-img{
+	background-image: url('../assets/signin-back-img.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 110%;
+}
+
+.right-align{
+	margin-left: auto; 
+	margin-right: 100px;
+	margin-top: 100px; 
+}
+
+.comfortaa{
+    font-family: 'Comfortaa', cursive;
+}
+
+.orbitron{
+	font-family: 'Orbitron', sans-serif;
+}
